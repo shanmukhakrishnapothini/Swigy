@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { Drop11 } from '../../mock data/constant'
-import Mcdonals from './Mcdonals'
 import { useParams } from 'react-router'
 
 import { useDispatch } from 'react-redux'
