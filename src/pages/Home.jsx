@@ -1,7 +1,7 @@
 import React from 'react'
 import Scroller1 from '../components/homecomponents/Scroller/Scroller1'
 import Scroller2 from '../components/homecomponents/Scroller/Scroller2'
-import Menu from '../components/restomenu/menu'
+import Menu from '../../src/components/restomenu/Menu'
 
 function Home() {
 
